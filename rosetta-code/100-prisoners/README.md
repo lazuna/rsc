@@ -3,11 +3,11 @@
 - A room having a cupboard of 100 opaque drawers numbered 1 to 100, that cannot be seen from outside.
 - Cards numbered 1 to 100 are placed randomly, one to a drawer, and the drawers all closed; at the start.
 - Prisoners start outside the room
-    They can decide some strategy before any enter the room.
-    Prisoners enter the room one by one, can open a drawer, inspect the card number in the drawer, then close the drawer.
-    A prisoner can open no more than 50 drawers.
-    A prisoner tries to find his own number.
-    A prisoner finding his own number is then held apart from the others.
+    - They can decide some strategy before any enter the room.
+    - Prisoners enter the room one by one, can open a drawer, inspect the card number in the drawer, then close the drawer.
+    - A prisoner can open no more than 50 drawers.
+    - A prisoner tries to find his own number.
+    - A prisoner finding his own number is then held apart from the others.
 - If all 100 prisoners find their own numbers then they will all be pardoned. If any don't then all sentences stand.
 
 ### The task
